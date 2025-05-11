@@ -1,8 +1,5 @@
 # YouTube Mass Unsubscriber
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/yourrepo.svg?style=social)](https://github.com/yourusername/yourrepo/stargazers)
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-
 ## Overview
 
 The YouTube Mass Unsubscriber is a powerful JavaScript tool designed to help you efficiently **manage your YouTube subscriptions**. If you're looking to **clean up your YouTube feed** or **bulk unsubscribe** from multiple channels quickly, this script provides a simple solution. This **YouTube automation script** streamlines the process, allowing you to **mass unsubscribe from YouTube channels** without manual effort, making it an essential **YouTube channel management** utility.
